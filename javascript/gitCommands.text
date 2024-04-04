@@ -1,0 +1,7 @@
+git add . - adds all files and folders
+git commit - adds new commits
+git status - checks the status
+git log - checks the history of your push/commit
+git checkout -b if there is no new or the branch does not exist
+git init - to initialize the git page
+git add -a to all files even out of the folders
